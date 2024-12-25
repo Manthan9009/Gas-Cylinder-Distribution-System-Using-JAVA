@@ -1,0 +1,400 @@
+Customer ID: 1
+Name: Aarav Sharma
+DOB: 1985-07-12
+Aadhar Number: 123456789012
+Mobile Number: 9876543210
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 2
+Name: Vivaan Verma
+DOB: 1992-01-18
+Aadhar Number: 123456789013
+Mobile Number: 9876543211
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 3
+Name: Aditya Mishra
+DOB: 1988-03-25
+Aadhar Number: 123456789014
+Mobile Number: 9876543212
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 4
+Name: Arjun Yadav
+DOB: 1995-05-22
+Aadhar Number: 123456789015
+Mobile Number: 9876543213
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 5
+Name: Vihaan Singh
+DOB: 1990-08-30
+Aadhar Number: 123456789016
+Mobile Number: 9876543214
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 6
+Name: Sai Kumar
+DOB: 1983-11-05
+Aadhar Number: 123456789017
+Mobile Number: 9876543215
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 7
+Name: Reyansh Patel
+DOB: 1987-02-14
+Aadhar Number: 123456789018
+Mobile Number: 9876543216
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 8
+Name: Ayaan Joshi
+DOB: 1991-04-29
+Aadhar Number: 123456789019
+Mobile Number: 9876543217
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 9
+Name: Krishna Sinha
+DOB: 1989-07-17
+Aadhar Number: 123456789020
+Mobile Number: 9876543218
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 10
+Name: Ishaan Reddy
+DOB: 1993-12-11
+Aadhar Number: 123456789021
+Mobile Number: 9876543219
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 11
+Name: Anaya Sharma
+DOB: 1984-02-23
+Aadhar Number: 123456789022
+Mobile Number: 9876543220
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 12
+Name: Diya Gupta
+DOB: 1990-06-30
+Aadhar Number: 123456789023
+Mobile Number: 9876543221
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 13
+Name: Aadhya Mehta
+DOB: 1985-09-04
+Aadhar Number: 123456789024
+Mobile Number: 9876543222
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 14
+Name: Kiara Chopra
+DOB: 1993-11-22
+Aadhar Number: 123456789025
+Mobile Number: 9876543223
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 15
+Name: Mishka Pandey
+DOB: 1986-05-10
+Aadhar Number: 123456789026
+Mobile Number: 9876543224
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 16
+Name: Aarohi Rana
+DOB: 1982-08-15
+Aadhar Number: 123456789027
+Mobile Number: 9876543225
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 17
+Name: Riya Malik
+DOB: 1992-12-08
+Aadhar Number: 123456789028
+Mobile Number: 9876543226
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 18
+Name: Anika Das
+DOB: 1994-03-14
+Aadhar Number: 123456789029
+Mobile Number: 9876543227
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 19
+Name: Pari Ghosh
+DOB: 1989-07-02
+Aadhar Number: 123456789030
+Mobile Number: 9876543228
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 20
+Name: Prisha Saxena
+DOB: 1987-10-28
+Aadhar Number: 123456789031
+Mobile Number: 9876543229
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 21
+Name: Manya Sharma
+DOB: 1996-01-18
+Aadhar Number: 123456789032
+Mobile Number: 9876543230
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 22
+Name: Saanvi Patel
+DOB: 1988-04-06
+Aadhar Number: 123456789033
+Mobile Number: 9876543231
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 23
+Name: Arya Iyer
+DOB: 1991-09-19
+Aadhar Number: 123456789034
+Mobile Number: 9876543232
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 24
+Name: Myra Rao
+DOB: 1985-11-29
+Aadhar Number: 123456789035
+Mobile Number: 9876543233
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 25
+Name: Tara Sharma
+DOB: 1983-07-07
+Aadhar Number: 123456789036
+Mobile Number: 9876543234
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 26
+Name: Shanaya Nair
+DOB: 1986-12-15
+Aadhar Number: 123456789037
+Mobile Number: 9876543235
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 27
+Name: Amaira Menon
+DOB: 1992-03-23
+Aadhar Number: 123456789038
+Mobile Number: 9876543236
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 28
+Name: Navya Singh
+DOB: 1994-06-18
+Aadhar Number: 123456789039
+Mobile Number: 9876543237
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 29
+Name: Aadhira Khan
+DOB: 1989-10-03
+Aadhar Number: 123456789040
+Mobile Number: 9876543238
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 30
+Name: Vedika Sinha
+DOB: 1987-02-19
+Aadhar Number: 123456789041
+Mobile Number: 9876543239
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 31
+Name: Kavya Patil
+DOB: 1990-05-13
+Aadhar Number: 123456789042
+Mobile Number: 9876543240
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 32
+Name: Nitya Reddy
+DOB: 1984-08-24
+Aadhar Number: 123456789043
+Mobile Number: 9876543241
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 33
+Name: Meera Agarwal
+DOB: 1983-11-16
+Aadhar Number: 123456789044
+Mobile Number: 9876543242
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 34
+Name: Nandini Bose
+DOB: 1995-03-25
+Aadhar Number: 123456789045
+Mobile Number: 9876543243
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 35
+Name: Aarush Shah
+DOB: 1982-07-09
+Aadhar Number: 123456789046
+Mobile Number: 9876543244
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 36
+Name: Rudra Desai
+DOB: 1993-10-19
+Aadhar Number: 123456789047
+Mobile Number: 9876543245
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 37
+Name: Aryan Kapoor
+DOB: 1991-02-04
+Aadhar Number: 123456789048
+Mobile Number: 9876543246
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 38
+Name: Atharv Chatterjee
+DOB: 1996-06-12
+Aadhar Number: 123456789049
+Mobile Number: 9876543247
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 39
+Name: Dhruv Bhatt
+DOB: 1984-09-08
+Aadhar Number: 123456789050
+Mobile Number: 9876543248
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 40
+Name: Advait Bajaj
+DOB: 1988-11-22
+Aadhar Number: 123456789051
+Mobile Number: 9876543249
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 41
+Name: Kabir Sharma
+DOB: 1986-03-15
+Aadhar Number: 123456789052
+Mobile Number: 9876543250
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 42
+Name: Neha Gupta
+DOB: 1992-07-23
+Aadhar Number: 123456789053
+Mobile Number: 9876543251
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 43
+Name: Rohan Mehta
+DOB: 1990-12-30
+Aadhar Number: 123456789054
+Mobile Number: 9876543252
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 44
+Name: Arjun Verma
+DOB: 1985-01-14
+Aadhar Number: 123456789055
+Mobile Number: 9876543253
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 45
+Name: Ishika Patel
+DOB: 1993-04-28
+Aadhar Number: 123456789056
+Mobile Number: 9876543254
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 46
+Name: Manav Rao
+DOB: 1988-09-10
+Aadhar Number: 123456789057
+Mobile Number: 9876543255
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 47
+Name: Simran Singh
+DOB: 1987-06-05
+Aadhar Number: 123456789058
+Mobile Number: 9876543256
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
+Customer ID: 48
+Name: Yash Kumar
+DOB: 1995-11-21
+Aadhar Number: 123456789059
+Mobile Number: 9876543257
+Connection Type: 5kg
+Total Charges:  Rs. 1829.00 Only~
+-------------------------------
+Customer ID: 49
+Name: Karan Agarwal
+DOB: 1991-02-18
+Aadhar Number: 123456789060
+Mobile Number: 9876543258
+Connection Type: 14.2kg
+Total Charges:  Rs. 3248.00 Only~
+-------------------------------
+Customer ID: 50
+Name: Divya Iyer
+DOB: 1989-08-08
+Aadhar Number: 123456789061
+Mobile Number: 9909998786
+Connection Type: 19kg
+Total Charges:  Rs. 4730.00 Only~
+-------------------------------
